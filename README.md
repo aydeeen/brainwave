@@ -1,6 +1,6 @@
 # Brainwave
 
-Brainwave is a modern AI chatbot application designed to transform the conversation experience. Built with **React**, **Tailwind CSS**, and **Vite**, it offers a visually stunning, responsive, and interactive UI for users to explore the power of generative AI in content creation, collaboration, and productivity.
+Brainwave is a modern AI chatbot interface built with React, Tailwind CSS, and Vite. It combines smooth animations, a clean layout, and responsive design to deliver fast, natural conversations with generative AI. Focused on simplicity and clarity, the app highlights how AI can feel intuitive and seamless within a refined, minimal interface.
 
 ---
 
